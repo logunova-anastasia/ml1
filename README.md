@@ -116,7 +116,7 @@ Now you know the basics of ML theory. The next step is the practice.
 
 ## Chapter III. Goal
 
-The goal of this project is to give you a basic understanding of how to build the simplest models. We will use the most common methods of data analysis and processing, learn some methods of visualization. The result is a simple regression model to predict the popularity of an apartment rental listing based on listing content such as text description, photos, number of bedrooms, price, etc.
+The goal of this project is to give you a basic understanding of how to build the simplest models. We will use the most common methods of data analysis and processing, learn some methods of visualization. The result is a simple regression model to predict the price of an apartment rental listing based on listing content such as text description, photos, number of bedrooms, price, etc.
 
 ## Chapter IV. Instructions
 
@@ -128,7 +128,7 @@ The goal of this project is to give you a basic understanding of how to build th
 
 ## Chapter V. Task
 
-We will practice using a problem from Kaggle.com. You will predict the price of an apartment rental listing based on the listing content such as text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website. 
+We will practice using a problem from Kaggle.com. You will predict the price of an apartment rental listing based on the listing content such as text description, photos, number of bedrooms, etc. The data comes from renthop.com, an apartment listing website. 
 
 Follow the instructions, answer the questions and get your final score!
 
